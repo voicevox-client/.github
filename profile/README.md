@@ -6,7 +6,7 @@ We are making voicevox-engine wrapper.
 That easy to use tts api.
 
 ## Support language
-- [ ] Python - On board
+- [x] Python - On board
 - [ ] Rust - Now developing
 - [ ] TypeScript/JavaScript - Now developing
 
