@@ -3,7 +3,7 @@
 ## Introduce about this organization
 We are making voicevox-engine wrapper.
 
-That easy to use tts api.
+That can easy to use tts api.
 
 ## Support language
 - [x] Python - On board
