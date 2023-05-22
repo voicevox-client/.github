@@ -1,11 +1,12 @@
 # VOICEVOX Client ORG
 	 
-## Introduce this organization
-We are making voicevox-engine wrapper.
+## Who are we?
+We are making wrappers for the VOICEVOX engine in a variety of different languages.
 
-That can easy to use tts api.✨
+Harness the power of the TTS API easily and quickly ✨
 
-If you are looking voicevox official organization, please move [here](https://github.com/VOICEVOX/).
+*This is a third-party organization and is not affiliated with VOICEVOX in any way.<br>
+If you are looking for the official VOICEVOX organization, please go [here](https://github.com/VOICEVOX/).
 	 
 ## Support language
 - [x] Python - Onboard🛫
